@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.counter{
+  text-align: center;
+}
+.para{
+  color: blueviolet;
+  background-color: aqua;
+  border: 3px solid blue;
+  margin: 20px;
+  text-align: center;
+  padding: 10px;
+}
